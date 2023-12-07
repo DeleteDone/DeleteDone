@@ -22,7 +22,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/ghostwriter_sana" target="blank"><img align="center" 
-src="https://github.com/Ask1509/Ask1509/blob/main/icons/Telegram.svg" alt="Ask1509" height="40" width="40" /></a>
+src="https://github.com/DeleteDone/DeleteDone/blob/main/icons/Telegram.svg" alt="DeleteDone" height="40" width="40" /></a>
 </p>                                                   
                                                    
                                                    
