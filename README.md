@@ -9,7 +9,7 @@
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain?ext=contest)](https://leetcode.com/rahulsain) -->
 
-## Computer science Student, Developer!! 
+## Developer. Programmer. A Java programmer. The software tester. 
 
 
 - 🌱 I create applications.
