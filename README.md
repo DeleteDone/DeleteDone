@@ -14,7 +14,7 @@
 
 - 🌱 I create applications.
 - 👯 I’m looking to collaborate with other content creators or project collaboration
-- 🥅 2023 Goals: Learn New Methodologies via Freelance
+- 🥅 2024 Goals: Learn New Methodologies via Freelance
 - 📫 How to reach me **OASKEROVA840@GMAIL.COM**
 - 🌍 I speak Russian (native), English (B2)
 - ⚡ Fun fact: I write not only program code, but also books.  I am a writer, my books are sold in bookstores.❤️
