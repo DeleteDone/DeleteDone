@@ -13,7 +13,7 @@
 
 
 - 🌱 I create applications.
-- 👯 I’m looking to collaborate with other content creators or project collaboration
+- ⚡ I'm interested in cybersecurity. I respect ethical hacking. I am learning the skills of AI and ChatGPT. I am preparing for the CompTIA PenTest+
 - 🥅 2024 Goals: Learn New Methodologies via Freelance
 - 📫 How to reach me **OASKEROVA840@GMAIL.COM**
 - 🌍 I speak Russian (native), English (B2)
