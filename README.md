@@ -65,15 +65,15 @@ src="https://github.com/DeleteDone/DeleteDone/blob/main/icons/Telegram.svg" alt=
 
 
 ```text
-Markdown   49 mins         █████████████████████████   100.00 %
+Markdown   800 mins         █████████████████████████   100.00 %
 ```
 
 ```text
-Java   125 mins         █████████████████████████   100.00 %
+Java   1490 mins         █████████████████████████   100.00 %
 ```
 
 ```text
-Python   149 mins         █████████████████████████   100.00 %
+Python   1250 mins         █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
