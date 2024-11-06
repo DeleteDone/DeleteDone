@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="http://ghostwriter-sana.tilda.ws/" target="_blank">Oksana Askerova 👋</a> </h1>
+Hi 👋 My name is Oksana Askerova
 
 =================================
 
