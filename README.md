@@ -24,13 +24,7 @@ Active educator. Like to translate technical articles from EN to RU to ruin lang
 
 <br/>
 <br/>
- 
-### Connect with me:
-<p align="left">
-<a href="https://t.me/ghostwriter_sana" target="blank"><img align="center" 
-src="https://github.com/DeleteDone/DeleteDone/blob/main/icons/Telegram.svg" alt="DeleteDone" height="40" width="40" /></a>
-</p>                                                   
-                                                   
+                                             
                                                    
 
 ### Languages and Tools:
