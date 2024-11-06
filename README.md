@@ -67,8 +67,6 @@ src="https://github.com/DeleteDone/DeleteDone/blob/main/icons/Telegram.svg" alt=
 <br>
 <br />
 
-### This week I spent my time on 💻
-<!--START_SECTION:waka-->
 
 <b>My GitHub Stats</b>
 
@@ -76,6 +74,9 @@ src="https://github.com/DeleteDone/DeleteDone/blob/main/icons/Telegram.svg" alt=
 
 <a href="http://www.github.com/solarrust"><img src="https://github-readme-streak-stats.herokuapp.com/?user=solarrust&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+
+### This week I spent my time on 💻
+<!--START_SECTION:waka-->
 
 ```text
 Markdown   800 mins         █████████████████████████   100.00 %
