@@ -1,5 +1,4 @@
 Hi 👋 My name is Oksana Askerova
-
 =================================
 
 ## Developer. Programmer. A Java programmer. QA Engineer. The software tester. 
