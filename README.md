@@ -1,24 +1,31 @@
 <h1 align="center">Hi there, I'm <a href="http://ghostwriter-sana.tilda.ws/" target="_blank">Oksana Askerova 👋</a> </h1>
 
+=================================
+
+## Developer. Programmer. A Java programmer. QA Engineer. The software tester. 
+--------------------------------
+
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain?ext=contest)](https://leetcode.com/rahulsain) -->
+
+Active educator. Like to translate technical articles from EN to RU to ruin language borders and make knowledges easy accessible. 
+
+
+* 🧠  I'm learning Everything!
+* ⚡ I'm interested in cybersecurity. I respect ethical hacking. Learning the skills of AI and ChatGPT. I am preparing for the CompTIA PenTest+
+* 🥅 2024 Goals: Learn New Methodologies via Freelance
+* ✉️  You can contact me at **oaskerova840@gmail.com**
+* 🌍 I speak Russian (native), English (B2)
+* ⚡ Fun fact: I write not only program code, but also books.  I am a writer, my books are sold in bookstores.❤️
+
+  ### Socials
+  
 <a href="https://github.com/DeleteDone"> 
   <img align="left" alt="Rahul's Github" width="22px" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" />
 </a>
 
 <br/>
 <br/>
-
-<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain?ext=contest)](https://leetcode.com/rahulsain) -->
-
-## Developer. Programmer. A Java programmer. QA Engineer. The software tester. 
-
-
-- 🌱 I create applications.
-- ⚡ I'm interested in cybersecurity. I respect ethical hacking. Learning the skills of AI and ChatGPT. I am preparing for the CompTIA PenTest+
-- 🥅 2024 Goals: Learn New Methodologies via Freelance
-- 📫 How to reach me **OASKEROVA840@GMAIL.COM**
-- 🌍 I speak Russian (native), English (B2)
-- ⚡ Fun fact: I write not only program code, but also books.  I am a writer, my books are sold in bookstores.❤️
-
+ 
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/ghostwriter_sana" target="blank"><img align="center" 
@@ -62,6 +69,12 @@ src="https://github.com/DeleteDone/DeleteDone/blob/main/icons/Telegram.svg" alt=
 
 ### This week I spent my time on 💻
 <!--START_SECTION:waka-->
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/solarrust"><img src="https://github-readme-stats.vercel.app/api?username=solarrust&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="solarrust's GitHub stats" /></a>
+
+<a href="http://www.github.com/solarrust"><img src="https://github-readme-streak-stats.herokuapp.com/?user=solarrust&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 ```text
